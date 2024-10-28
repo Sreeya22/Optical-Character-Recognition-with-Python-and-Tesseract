@@ -30,7 +30,7 @@ This project implements Optical Character Recognition (OCR) using Tesseract and 
 1. Place the image file you want to process in the project directory.
 2. Modify the filename in the script if necessary:
    ```python
-   info = recText('your_image_file.jpg')
+   info = recText('data.jpg')
    ```
 
 3. Run the script:
